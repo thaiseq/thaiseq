@@ -1,4 +1,6 @@
 # Thaise Quiterio
+![Alt Text](https://github.com/thaiseq/thaiseq/blob/master/Creative%20and%20Minimal%20Portfolio%20Presentation.jpg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-tquiterio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tquiterio/)](https://www.linkedin.com/in/tquiterio/) 
 
 ## Hi 👋, 
