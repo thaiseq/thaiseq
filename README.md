@@ -1,5 +1,5 @@
 # Thaise Quiterio
-[![Alt Text](https://github.com/thaiseq/portifolio_image/blob/main/foto.jpg)](https://thaiseq.github.io/)
+[![Alt Text](https://github.com/thaiseq/portifolio_image/blob/main/Logo.jpg)](https://thaiseq.github.io/)
 
 [Portifolio](https://thaiseq.github.io/)
 
